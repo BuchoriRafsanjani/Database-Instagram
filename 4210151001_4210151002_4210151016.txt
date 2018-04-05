@@ -1,0 +1,3 @@
+Table Profile dan Story = Rizal
+Table Posting dan Follower = Noni
+Table Message dan Following = Buchori
